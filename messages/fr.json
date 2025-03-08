@@ -1,0 +1,120 @@
+{
+  "HomePage": {
+    "title": "Voyagez avec Élégance sur la Côte d’Azur",
+    "service_description": "Voyagez avec élégance sur la Côte d’Azur grâce à notre service de chauffeur privé alliant luxe, confort et discrétion. Profitez d’un trajet sur-mesure à Cannes, Nice et Saint-Tropez."
+  },
+  "Navbar": {
+    "item1": "Accueil",
+    "item2": "Contact",
+    "item3": "RESERVATION"
+  },
+  "Services": {
+    "serv1": "Élégance & Prestige",
+    "serv1Desc": "Voyagez à bord de véhicules d’exception pour une expérience luxueuse et inoubliable.",
+    "serv2": "Flotte Haut de Gamme",
+    "serv2Desc": "Des berlines et vans de luxe équipés pour votre confort absolu.",
+    "serv3": "Excellence du Service",
+    "serv3Desc": "Un chauffeur professionnel, attentif et dédié à votre satisfaction.",
+    "serv4": "Disponibilité Sans Limite",
+    "serv4Desc": "Où que vous soyez, à toute heure, nous sommes là pour répondre à vos exigences."
+  },
+  "Description": {
+    "item1": "ROYAL LINE CHAUFFEUR",
+    "item2": "Votre chauffeur privé à Cannes, Monaco et Nice.",
+    "item3": "ROYAL LINE CHAUFFEUR, votre service privé d’exception sur la Côte d’Azur.Voyagez avec élégance à bord de nos véhicules haut de gamme, alliant confort et discrétion.Pour vos transferts, escapades ou événements, nos chauffeurs vous assurent un service raffiné.Réservez dès maintenant et profitez d’une expérience de voyage inégalée."
+  },
+  "Flotte": {
+    "text": "Nos Véhicules ",
+    "spanText": "Haut de Gamme.",
+    "desc": "Partez en toute élégance à bord de notre flotte premium. Que vous optiez pour une berline raffinée ou une navette spacieuse, chaque trajet est une expérience de confort absolu, pensée pour vos déplacements les plus exigeants.",
+    "wifi": "Wifi",
+    "batterie": "Câble de Charge",
+    "Confiserie": "Confiserie",
+    "Bluetooth": "Bluetooth"
+  },
+  "Spots": {
+    "text": "Spots ",
+    "spanText": "prisés",
+    "spotDescription": "Explorez les trésors cachés de la Côte d’Azur et au-delà avec Royal Line, votre chauffeur privé d’exception. De Nice à Cannes, en passant par Monaco, laissez-vous guider vers des lieux emblématiques et des panoramas à couper le souffle. Notre service transfrontalier vous ouvre les portes de destinations fascinantes au-delà des frontières, pour une aventure unique et sur mesure.",
+    "container1": "Nice, France",
+    "slogan1": "Riviera",
+    "container2": "Cannes, France",
+    "slogan2": "Festival du Film",
+    "container3": "Monaco, Monaco",
+    "slogan3": "Paillettes",
+    "container4": "Antibes, France",
+    "slogan4": "Pittoresque"
+  },
+  "FAQ": {
+    "text": "Questions ",
+    "spanText": "fréquemment posées",
+    "desc":"Vous trouverez ici les réponses aux questions les plus courantes sur nos produits et services. Si vous avez besoin d'une aide supplémentaire, n'hésitez pas à nous contacter directement !",
+    "q1": "Quelles sont les mesures sanitaires mises en place dans les véhicules?",
+    "resp1": "Nos véhicules sont désinfectés entre chaque client. Votre chauffeur VTC vous fournira du gel hydroalcoolique ainsi que des masques.",
+    "q2": "Combien de temps dois-je compter pour un transfert de l'aéroport de Marseille pour me rendre à Cannes?",
+    "resp2": "Le temps de trajet est d’environ 2 heures, en fonction du trafic. Nos chauffeurs privés mettent tout en oeuvre pour utiliser le meilleur itinéraire possible.",
+    "q3": "Est ce que le tarif annoncé comprend les péages et parking?",
+    "resp3": "Nos tarifs sont tout inclus. Seul les heures supplémentaires peuvent s’appliquer lors d’une mise à disposition d’un véhicule avec chauffeur.",
+    "q4": "Combien de temps avant mon vol dois-je arriver à l'aéroport de Nice?",
+    "resp4": "Il est conseillé pour un vol international d’être présent à l’aéroport deux heures avant l’horaire de décollage."
+  },
+  "avis_de_clients": {
+    "text":"Avis ",
+    "spanText" :"Client",
+    "desc":"Votre avis est important pour nous et nous aide à nous améliorer. Veuillez partager vos impressions afin de nous aider à mieux vous servir !",
+    "client1": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client2": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client3": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client4": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": "",
+      "client5": {
+        "tweet": "",
+        "commentaire": "",
+        "pseudonyme": "",
+        "note_globale": ""
+      }
+    }
+  },
+
+  "footer": {
+    "textPourReserver": {
+      "title": "Réservez votre chauffeur privé sur la Côte d’Azur : Cannes, Monaco, Nice."
+    },
+    "textDesc" : {
+      "text":"Merci d'avoir choisi RoyalLine. Restez connecté avec nous et suivez nos réseaux sociaux pour les dernières actualités et mises à jour."
+    },
+    "services": {
+      "text": "SERVICES",
+      "el1": "Événements Spéciaux",
+      "el2": "City Tours",
+      "el3": "Voyages d’affaires"
+    },
+    "INFORMATIONS_LEGALES": {
+      "text": "INFORMATIONS LEGALES",
+      "el1": "Mentions légales",
+      "el2": "Politique de confidentialité",
+      "el3": "Conditions générales d’utilisation (CGU)"
+    },
+    "copyRights": {
+      "text": "Tous droits réservés."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "HomePage": {
+    "title": "Travel with Elegance on the French Riviera",
+    "service_description": "Travel with elegance on the French Riviera with our private chauffeur service, combining luxury, comfort, and discretion. Enjoy a tailor-made ride in Cannes, Nice, and Saint-Tropez."
+  },
+  "Navbar": {
+    "item1": "Home",
+    "item2": "Contact",
+    "item3": "RESERVATION"
+  },
+  "Services": {
+    "serv1": "Elegance & Prestige",
+    "serv1Desc": "Travel in exceptional vehicles for a luxurious and unforgettable experience.",
+    "serv2": "Premium Fleet",
+    "serv2Desc": "Luxury sedans and vans equipped for your absolute comfort.",
+    "serv3": "Service Excellence",
+    "serv3Desc": "A professional chauffeur, attentive and dedicated to your satisfaction.",
+    "serv4": "Unlimited Availability",
+    "serv4Desc": "Wherever you are, at any hour, we are here to meet your requirements."
+  },
+  "Description": {
+    "item1": "ROYAL LINE CHAUFFEUR",
+    "item2": "Your private chauffeur in Cannes, Monaco, and Nice.",
+    "item3": "ROYAL LINE CHAUFFEUR, your exceptional private service on the French Riviera. Travel with elegance aboard our high-end vehicles, combining comfort and discretion. Whether for transfers, getaways, or events, our chauffeurs ensure a refined service. Book now and enjoy an unparalleled travel experience."
+  },
+  "Flotte": {
+    "text": "Our Vehicles",
+    "spanText": "Premium.",
+    "desc": "Travel in elegance aboard our premium fleet. Whether you choose a refined sedan or a spacious shuttle, every ride is an experience of absolute comfort, designed for your most demanding trips.",
+    "wifi": "Wifi",
+    "batterie": "Charging Cable",
+    "Confiserie": "Candy",
+    "Bluetooth": "Bluetooth"
+  },
+  "Spots": {
+    "text": "Popular Spots ",
+    "spanText": "Visited.",
+    "spotDescription": "Explore the hidden gems of the French Riviera and beyond with Royal Line, your exceptional private chauffeur. From Nice to Cannes, through Monaco, let yourself be guided to iconic places and breathtaking panoramas. Our cross-border service opens the doors to fascinating destinations beyond borders, for a unique and customized adventure.",
+    "container1": "Nice, France",
+    "slogan1": "Riviera",
+    "container2": "Cannes, France",
+    "slogan2": "Film Festival",
+    "container3": "Monaco, Monaco",
+    "slogan3": "Glamour",
+    "container4": "Antibes, France",
+    "slogan4": "Picturesque"
+  },
+  "FAQ": {
+    "text": "Frequently ",
+    "spanText": "Asked Questions",
+    "desc": "Here you will find answers to the most common questions about our products and services. If you need further assistance, feel free to contact us directly!",
+    "q1": "What health measures are in place in the vehicles?",
+    "resp1": "Our vehicles are disinfected between each client. Your VTC chauffeur will provide you with hand sanitizer and masks.",
+    "q2": "How long does it take to transfer from Marseille airport to Cannes?",
+    "resp2": "The journey time is about 2 hours, depending on traffic. Our private chauffeurs do everything possible to use the best route.",
+    "q3": "Does the quoted price include tolls and parking?",
+    "resp3": "Our rates are all-inclusive. Only additional hours may apply when a vehicle with a chauffeur is on standby.",
+    "q4": "How early should I arrive at Nice airport for my flight?",
+    "resp4": "It is recommended to arrive at least two hours before departure time for international flights."
+  },
+  "avis_de_clients": {
+    "text": "Customer ",
+    "spanText": "Reviews",
+    "desc": "Your feedback is important to us and helps us improve. Please share your thoughts to help us serve you better!",
+    "client1": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client2": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client3": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": ""
+    },
+    "client4": {
+      "tweet": "",
+      "commentaire": "",
+      "pseudonyme": "",
+      "note_globale": "",
+      "client5": {
+        "tweet": "",
+        "commentaire": "",
+        "pseudonyme": "",
+        "note_globale": ""
+      }
+    }
+  },
+
+  "footer": {
+    "textPourReserver": {
+      "title": "Book your private chauffeur on the French Riviera: Cannes, Monaco, Nice."
+    },
+    "textDesc": {
+      "text": "Thank you for choosing RoyalLine. Stay connected with us and follow our social media channels for the latest news and updates."
+    },
+    "services": {
+      "text": "SERVICES",
+      "el1": "Special Events",
+      "el2": "City Tours",
+      "el3": "Business Trips"
+    },
+    "INFORMATIONS_LEGALES": {
+      "text": "LEGAL INFORMATION",
+      "el1": "Legal Notice",
+      "el2": "Privacy Policy",
+      "el3": "Terms and Conditions"
+    },
+    "copyRights": {
+      "text": "All rights reserved."
+    }
+  }
+}
