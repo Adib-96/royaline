@@ -48,7 +48,7 @@ const CountryPhoneInput = ({ handleChange, pN }) => {
         <input
           type="tel"
           placeholder={t('phoneNPlaceHolder')}
-          className="border p-2 rounded w-72"
+          className="border p-2 rounded"
           value={pN}
           onChange={handlePhoneNumberChange} // Handle change here
         />

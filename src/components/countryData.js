@@ -12,6 +12,8 @@ const countryData = [
   { label: "United Arab Emirates", value: "+971", flag: "https://flagcdn.com/w40/ae.png" },
   { label: "Saudi Arabia", value: "+966", flag: "https://flagcdn.com/w40/sa.png" },
   { label: "Kuwait", value: "+965", flag: "https://flagcdn.com/w40/kw.png" },
+  { label: "Netherlands", value: "+31", flag: "https://flagcdn.com/w40/nl.png" },
+  { label: "Qatar", value: "+974", flag: "https://flagcdn.com/w40/qa.png" },
 ];
-  export default countryData;
-  
+
+export default countryData;

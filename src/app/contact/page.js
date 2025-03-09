@@ -46,10 +46,10 @@ export default function ContactMe() {
   };
 
   return (
-    <section className="bg-gray-100 py-16">
+    <section className="bg-gray-100 pt-16 pb-24">
       <div className="container mx-auto px-6">
         <div className="bg-white shadow-lg rounded-xl p-8 md:p-16 relative">
-          <div className="grid md:grid-cols-12 gap-8">
+          <div className="md:grid gap-8">
             <div className="md:w-full md:col-span-7">
               <h3 className="text-3xl font-bold text-gray-900 mb-4 font-semiBold">{t('text')}</h3>
               <p className="text-gray-600 mb-6 font-regular_normal">{t('descText')}</p>
@@ -60,7 +60,7 @@ export default function ContactMe() {
                   placeholder={t('namePlaceHolder')}
                   value={form.name}
                   onChange={handleChange}
-                  className="w-full font-regular_normal border-b-2 border-gray-300 focus:border-blue-600 outline-none py-2"
+                  className="w-full  font-regular_normal border-b-2 border-gray-300 focus:border-blue-600 outline-none py-2"
                   required
                 />
                 <input
