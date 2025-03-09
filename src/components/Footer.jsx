@@ -20,7 +20,7 @@ export default function Footer() {
             <Image src="/images/logo.png" alt="Logo" width={150} height={150} />
           </Link>
 
-          <p className=" light text-zinc-500 text-xl pt-8 text-pretty">{t('textDesc.text')}</p>
+          <p className="w-80 md:w-1/2 light text-zinc-500 text-xl pt-8 text-pretty">{t('textDesc.text')}</p>
         </div>
 
         <div className="text-white flex flex-col gap-8">

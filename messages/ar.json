@@ -115,5 +115,17 @@
     "copyRights": {
       "text": "جميع الحقوق محفوظة."
     }
+  },
+  "contactPage": {
+    "text": "اتصل بنا",
+    "descText": "لا تتردد في الاتصال بنا في أي وقت. سوف نرد عليك في أقرب وقت ممكن!",
+    "namePlaceHolder": "الاسم",
+    "emailPlaceHolder": "البريد الإلكتروني",
+    "phoneNumberText": "رقم الهاتف:",
+    "phoneNPlaceHolder": "أدخل رقم الهاتف",
+    "messagePlaceHolder": "الرسالة",
+    "sendbtn": "إرسال",
+    "loading": "جاري الإرسال...",
+    "numberSelected": "تم الاختيار:"
   }
 }

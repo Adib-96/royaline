@@ -116,5 +116,17 @@
     "copyRights": {
       "text": "Tous droits réservés."
     }
+  },
+  "contactPage": {
+    "text": "Contactez-nous",
+    "descText": "N'hésitez pas à nous contacter à tout moment. Nous reviendrons vers vous dès que possible !",
+    "namePlaceHolder": "Nom",
+    "emailPlaceHolder": "Email",
+    "phoneNumberText": "Numéro de téléphone :",
+    "phoneNPlaceHolder": "Entrez le numéro de téléphone",
+    "messagePlaceHolder": "Message",
+    "sendbtn": "ENVOYER",
+    "loading": "Envoi...",
+    "numberSelected": "Sélectionné :"
   }
 }

@@ -105,8 +105,8 @@ export default function Navbar() {
       {/* Desktop Layout: Navigation Links + Language Dropdown */}
       <div className="sm:flex hidden items-center justify-evenly w-full">
         <div className="w-40">
-          <Link href="/">
-            <Image src="/images/logo.png" alt="Logo" width={250} height={250} />
+          <Link href="/" >
+            <Image src="/images/logo.png" alt="Logo" width={250} height={250} className="pt-3" />
           </Link>
         </div>
 
@@ -114,7 +114,7 @@ export default function Navbar() {
         <div className="flex gap-10 md:gap-32">
           <Link
             href="/"
-            className={`text-3xl ${
+            className={`text-2xl ${
               router.pathname === "/" ? "border-b-2 border-blue-500" : ""
             } font-regular`}
           >
@@ -122,7 +122,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="/contact"
-            className={`text-3xl ${
+            className={`text-2xl ${
               router.pathname === "/contact" ? "border-b-2 border-blue-500" : ""
             } font-regular`}
           >

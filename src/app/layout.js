@@ -18,7 +18,7 @@ export default async function RootLayout({ children }) {
       <body>
         <NextIntlClientProvider messages={messages}>
           <Navbar />
-          <main className="overflow-hidden mb-10">{children}</main>
+          <main className="overflow-hidden">{children}</main>
           <Footer />
         </NextIntlClientProvider>
       </body>

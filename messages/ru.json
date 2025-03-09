@@ -116,5 +116,17 @@
     "copyRights": {
       "text": "Все права защищены."
     }
+  },
+  "contactPage": {
+    "text": "Связаться с нами",
+    "descText": "Не стесняйтесь обращаться к нам в любое время. Мы свяжемся с вами как можно скорее!",
+    "namePlaceHolder": "Имя",
+    "emailPlaceHolder": "Электронная почта",
+    "phoneNumberText": "Номер телефона:",
+    "phoneNPlaceHolder": "Введите номер телефона",
+    "messagePlaceHolder": "Сообщение",
+    "sendbtn": "ОТПРАВИТЬ",
+    "loading": "Отправка...",
+    "numberSelected": "Выбрано:"
   }
 }
