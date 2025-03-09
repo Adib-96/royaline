@@ -2,8 +2,10 @@ import { useState, useEffect } from "react";
 import Select from "react-select";
 import countryData from "./countryData";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 const CountryPhoneInput = ({ handleChange, pN }) => {
+  const t = useTranslations('contactPage');
   const [selectedCountry, setSelectedCountry] = useState(null);
   const [phoneNumber, setPhoneNumber] = useState("");
   const [isMounted, setIsMounted] = useState(false);
@@ -30,8 +32,8 @@ const CountryPhoneInput = ({ handleChange, pN }) => {
 
   return (
     <div className="flex flex-col gap-2">
-      <label className="text-lg font-semibold">Phone Number:</label>
-      <div className="flex gap-2">
+      <label className="text-lg font-semibold">{t('phoneNumberText')}</label>
+      <div className="flex-col flex md:flex-row gap-2">
         <Select
           options={countryData}
           getOptionLabel={(e) => (
@@ -41,11 +43,11 @@ const CountryPhoneInput = ({ handleChange, pN }) => {
             </div>
           )}
           onChange={handleCountryChange}
-          className="w-60"
+          className="w-full md:w-60"
         />
         <input
           type="tel"
-          placeholder="Enter phone number"
+          placeholder={t('phoneNPlaceHolder')}
           className="border p-2 rounded w-72"
           value={pN}
           onChange={handlePhoneNumberChange} // Handle change here
@@ -53,7 +55,7 @@ const CountryPhoneInput = ({ handleChange, pN }) => {
       </div>
       {selectedCountry && (
         <p className="text-gray-600">
-          📞 Selected: {selectedCountry.value} {phoneNumber}
+          📞 {t('numberSelected')}: {selectedCountry.value} {phoneNumber}
         </p>
       )}
     </div>

@@ -50,7 +50,7 @@ export default function ContactMe() {
       <div className="container mx-auto px-6">
         <div className="bg-white shadow-lg rounded-xl p-8 md:p-16 relative">
           <div className="grid md:grid-cols-12 gap-8">
-            <div className="w-1/2 md:w-full md:col-span-7">
+            <div className="md:w-full md:col-span-7">
               <h3 className="text-3xl font-bold text-gray-900 mb-4 font-semiBold">{t('text')}</h3>
               <p className="text-gray-600 mb-6 font-regular_normal">{t('descText')}</p>
               <form onSubmit={handleSubmit} className="space-y-4">
