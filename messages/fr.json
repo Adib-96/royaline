@@ -25,7 +25,7 @@
   },
   "Flotte": {
     "text": "Nos Véhicules ",
-    "spanText": "Haut de Gamme.",
+    "spanText": "de Luxe",
     "desc": "Partez en toute élégance à bord de notre flotte premium. Que vous optiez pour une berline raffinée ou une navette spacieuse, chaque trajet est une expérience de confort absolu, pensée pour vos déplacements les plus exigeants.",
     "wifi": "Wifi",
     "batterie": "Câble de Charge",
@@ -63,35 +63,25 @@
     "spanText" :"Client",
     "desc":"Votre avis est important pour nous et nous aide à nous améliorer. Veuillez partager vos impressions afin de nous aider à mieux vous servir !",
     "client1": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+      "tweet": "Parfait, rien à redire !",
+      "commentaire": "“Réservation facile, chauffeur super pro et trajet rapide. C’était exactement ce que je recherchais. Je referai appel à ce service sans hésiter“"
     },
     "client2": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+      "tweet": "Expérience incroyable !",
+      "commentaire": "“Tout était parfait, de la réservation au trajet. Chauffeur très sympathique et ponctuel.“"
     },
     "client3": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+      "tweet": "Tout simplement excellent !",
+      "commentaire": "“La voiture était propre et bien entretenue, et le chauffeur très professionnel. Un plaisir de voyager ainsi !“"
     },
     "client4": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": "",
+      "tweet": "Service impeccable !",
+      "commentaire": "“J’ai adoré mon expérience ! Le chauffeur était ponctuel, la voiture propre et le trajet très agréable. Je recommande vivement !“"
+    },
       "client5": {
-        "tweet": "",
-        "commentaire": "",
-        "pseudonyme": "",
-        "note_globale": ""
+        "tweet": "Juste parfait !",
+        "commentaire": "“Chauffeur souriant, musique agréable et conduite fluide. Une expérience au top, merci !“"
       }
-    }
   },
 
   "footer": {

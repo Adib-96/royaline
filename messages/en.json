@@ -25,7 +25,7 @@
   },
   "Flotte": {
     "text": "Our Vehicles",
-    "spanText": "Premium.",
+    "spanText": "Premium",
     "desc": "Travel in elegance aboard our premium fleet. Whether you choose a refined sedan or a spacious shuttle, every ride is an experience of absolute comfort, designed for your most demanding trips.",
     "wifi": "Wifi",
     "batterie": "Charging Cable",
@@ -34,7 +34,7 @@
   },
   "Spots": {
     "text": "Popular Spots ",
-    "spanText": "Visited.",
+    "spanText": "Visited",
     "spotDescription": "Explore the hidden gems of the French Riviera and beyond with Royal Line, your exceptional private chauffeur. From Nice to Cannes, through Monaco, let yourself be guided to iconic places and breathtaking panoramas. Our cross-border service opens the doors to fascinating destinations beyond borders, for a unique and customized adventure.",
     "container1": "Nice, France",
     "slogan1": "Riviera",
@@ -59,41 +59,31 @@
     "resp4": "It is recommended to arrive at least two hours before departure time for international flights."
   },
   "avis_de_clients": {
-    "text": "Customer ",
-    "spanText": "Reviews",
-    "desc": "Your feedback is important to us and helps us improve. Please share your thoughts to help us serve you better!",
+    "text": "Reviews",
+    "spanText": "Client",
+    "desc": "Your feedback is important to us and helps us improve. Please share your impressions to help us serve you better!",
     "client1": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+        "tweet": "Perfect, nothing to complain about!",
+        "commentaire": "“Easy booking, super professional driver, and fast ride. It was exactly what I was looking for. I will definitely use this service again“"
     },
     "client2": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+        "tweet": "Incredible experience!",
+        "commentaire": "“Everything was perfect, from the booking to the ride. Very friendly and punctual driver.“"
     },
     "client3": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": ""
+        "tweet": "Simply excellent!",
+        "commentaire": "“The car was clean and well-maintained, and the driver was very professional. A pleasure to travel this way!“"
     },
     "client4": {
-      "tweet": "",
-      "commentaire": "",
-      "pseudonyme": "",
-      "note_globale": "",
-      "client5": {
-        "tweet": "",
-        "commentaire": "",
-        "pseudonyme": "",
-        "note_globale": ""
-      }
+        "tweet": "Flawless service!",
+        "commentaire": "“I loved my experience! The driver was punctual, the car was clean, and the ride was very pleasant. I highly recommend it!“"
+    },
+    "client5": {
+        "tweet": "Simply perfect!",
+        "commentaire": "“Smiling driver, pleasant music, and smooth driving. A top-notch experience, thank you!“"
     }
-  },
-
+}
+,
   "footer": {
     "textPourReserver": {
       "title": "Book your private chauffeur on the French Riviera: Cannes, Monaco, Nice."

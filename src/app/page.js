@@ -3,7 +3,6 @@ import Services from "../components/services/Services";
 import Description from "../components/description/Description";
 import Flotte from "../components/flotte/Flotte";
 import Spots from "../components/spots/Spots";
-import Image from "next/image";
 import Faq from "../components/FAQ/Faq";
 import ClientReview from "../components/avis_de_clients/ClientReview";
 import { useTranslations } from "next-intl";

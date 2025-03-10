@@ -1,6 +1,5 @@
 import { useTranslations } from "next-intl"
 import Image from "next/image"
-import Link from "next/link"
 
 
 
@@ -8,10 +7,10 @@ import Link from "next/link"
 function CarModel({carName,carImage}) {
   const t = useTranslations('Flotte')
   return (
-    <div className="flex flex-col justify-center items-center p-12">
-        <h3 className="font-semiBold text-4xl tracking-wider underline text-center">{carName}</h3>
+    <div className="flex flex-col justify-center items-center p-12 gap-4">
+        <h3 className="font-semiBold text-3xl md:text-4xl tracking-wider underline text-center">{carName}</h3>
         <div className="overflow-hidden">
-          <Image src={"/images/"+carImage} width={600} height={600} alt={carName} />
+          <Image src={"/images/"+carImage}  width={600} height={600} alt={carName} />
         </div>
 
         <div className="flex flex-col gap-10 justify-center items-center">

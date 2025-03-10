@@ -6,15 +6,20 @@ import { getLocale, getMessages } from "next-intl/server";
 
 export const metadata = {
   title: "Royal Line",
-  description: "#",
+  description: "Enjoy premium ride services along the French Riviera. Book your comfortable and reliable ride for an unforgettable journey, whether you're exploring Nice, Cannes, or Monaco. Convenient, safe, and affordable transportation at your fingertips.",
+  icons : {
+    icon : '/favicon.png'
+  }
 };
 
 export default async function RootLayout({ children }) {
   const messages = await getMessages();
   const locale = await getLocale();
-
+  
+  
   return (
     <html lang={locale}>
+      <head/>      
       <body>
         <NextIntlClientProvider messages={messages}>
           <Navbar />
