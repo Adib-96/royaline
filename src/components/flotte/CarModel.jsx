@@ -14,7 +14,7 @@ function CarModel({carName,carImage}) {
         </div>
 
         <div className="flex flex-col gap-10 justify-center items-center">
-          <div className="flex gap-12">
+          <div className="flex gap-6 md:gap-12">
             <div className="flex flex-col justify-center items-center">
               <Image src="/icons/wifi.png" width={30} height={30} alt="wifi_icon"/>
               <span>{t('wifi')}</span>
