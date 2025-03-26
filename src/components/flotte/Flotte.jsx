@@ -18,8 +18,8 @@ function Flotte() {
         </p>
       </div>
       <div className="grid p-12 xs:grid-col md:grid-cols-2 gap-10 justify-items-center justify-center">
-        <CarModel carName={"Tesla Model Y"} carImage="teslaModely.webp" />
-        <CarModel carName={"Tesla Model 3"} carImage="teslaModel3.png" />
+        <CarModel carName={"Tesla Model 3"} carImage="teslaModely.webp" />
+        <CarModel carName={"Tesla Model Y"} carImage="teslaModel3.png" />
         <CarModel
           carName={"Audi E-tron Sportback"}
           carImage="Audi-E-tron-Transparent-PNG.png"
